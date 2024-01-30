@@ -4,10 +4,13 @@
       "name": "Mécanique",
       "sections": [
         {
+          "name": "Cinématique",
           "complexity": "moyenne",
+          "interest": "super",
           "bool": "vrai"
         },
         {
+          "name": "Hydrodynamique",
           "complexity": "4",
           "interest": "3",
           "bool": "FAUX"
